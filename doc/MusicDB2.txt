@@ -1,0 +1,22 @@
+21 2
+101103 Back-In-Black AC/DC 1980 3 Brian-Johnson Angus-Young Malcom-Young new
+101104 Back-In-Black AC/DC 1980 3 Brian-Johnson Angus-Young Malcom-Young sold 8-05-24
+102104 Some-Girls Rolling-Stones 1978 2 Mick-Jagger Keith-Richards sold 9-20-24
+102105 Some-Girls Rolling-Stones 1978 2 Mick-Jagger Keith-Richards new
+102106 Some-Girls Rolling-Stones 1978 2 Mick-Jagger Keith-Richards return 07-04-23
+103103 The-Dark-Side-Of-The-Moon Pink-Floyd 1973 2 Nick-Mason David-Gilmour new
+103104 The-Dark-Side-Of-The-Moon Pink-Floyd 1973 2 Nick-Mason David-Gilmour return 01-01-22
+104103 Man-In-Black Johnny-Cash 1971 1 Johnny-Cash sold 11-5-24
+104104 Man-In-Black Johnny-Cash 1971 1 Johnny-Cash new
+105105 Please-Please The-Beatles 1963 2 Paul-McCartney John-Lennon new
+105106 Please-Please The-Beatles 1963 2 Paul-McCartney John-Lennon sold 06-02-17
+105107 Please-Please The-Beatles 1963 2 Paul-McCartney John-Lennon return 10-18-18
+105108 Please-Please The-Beatles 1963 2 Paul-McCartney John-Lennon new
+105205 Abbey-Road The-Beatles 1969 2 Paul-McCartney John-Lennon new
+105206 Abbey-Road The-Beatles 1969 2 Paul-McCartney John-Lennon new
+105207 Abbey-Road The-Beatles 1969 2 Paul-McCartney John-Lennon return 11-23-24
+105208 Abbey-Road The-Beatles 1969 2 Paul-McCartney John-Lennon new
+105305 Let-It-Be The-Beatles 1970 2 Paul-McCartney John-Lennon new
+105306 Let-It-Be The-Beatles 1970 2 Paul-McCartney John-Lennon return 10-15-24
+105307 Let-It-Be The-Beatles 1970 2 Paul-McCartney John-Lennon new
+105308 Let-It-Be The-Beatles 1970 2 Paul-McCartney John-Lennon new
